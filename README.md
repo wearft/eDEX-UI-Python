@@ -31,3 +31,5 @@ cd eDEX-UI-Python
 
 # Install dependencies
 pip install -r requirements.txt
+
+python main.py
