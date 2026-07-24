@@ -25,16 +25,13 @@ A futuristic hacker interface inspired by Watch Dogs 2's eDEX-UI system, built w
 ## Installation
 
 ```bash
-
-# Clone the repositorygit 
-clone https://github.com/wearft/eDEX-UI-Python.git
+#Installation
+git clone https://github.com/wearft/eDEX-UI-Python.git
 cd eDEX-UI-Python
-
-# Install dependenciespip
-install -r requirements.txt
-
-#lancementpython
-main.py
+install the requirements 
+pip install -r requirements.txt
+# for open the .py 
+python main.py
 
 ## coding 
 
