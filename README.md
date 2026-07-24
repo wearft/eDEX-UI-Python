@@ -63,37 +63,6 @@ eDEX-UI-Python/
 │       ├── bordered_frame.py # Bordered frame widget
 │       └── scanlines.py      # Scanline effect
 
-Customization
-Colors
-
-Edit config.py to change the color scheme:
-Python
-
-COLORS = {
-    "accent_green": "#00ff41",
-    "accent_cyan": "#00d4ff",
-    # ... more colors
-}
-
-Fonts
-
-Modify font settings in config.py:
-Python
-
-FONTS = {
-    "mono_normal": ("Courier New", 10, "normal"),
-    # ... more fonts
-}
-
-Animation Speed
-
-Adjust animation parameters in config.py:
-Python
-
-ANIMATION = {
-    "text_scan_speed": 0.05,
-    "pulse_speed": 0.5,
-}
 
 Features to Add
 
